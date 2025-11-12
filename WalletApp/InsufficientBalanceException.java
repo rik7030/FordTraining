@@ -1,4 +1,4 @@
-package Online_Digital_Wallet;
+package WalletApp;
 
 
 public class InsufficientBalanceException extends Exception {

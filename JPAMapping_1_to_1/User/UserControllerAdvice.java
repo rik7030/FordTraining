@@ -1,4 +1,4 @@
-package JPA_One_toOne_Mapping.User;
+package JPAMapping_1_to_1.User;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

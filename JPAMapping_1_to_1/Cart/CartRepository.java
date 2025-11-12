@@ -1,4 +1,4 @@
-package JPA_One_toOne_Mapping.Cart;
+package JPAMapping_1_to_1.Cart;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

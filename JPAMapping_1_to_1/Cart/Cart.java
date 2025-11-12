@@ -1,4 +1,4 @@
-package JPA_One_toOne_Mapping.Cart;
+package JPAMapping_1_to_1.Cart;
 
 import com.demo.e_commerce.users.UserTable;
 import com.fasterxml.jackson.annotation.JsonIgnore;
